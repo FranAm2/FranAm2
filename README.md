@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da FranAm2 😁
+ Bem-vindo(a) ao perfil da FranAm2 😁
 
  <div>
    <a href="https://github.com/FranAm2">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+   Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/fran_amaral73" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

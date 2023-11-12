@@ -1,4 +1,4 @@
- Bem-vindo(a) ao perfil da FranAm2 😁
+ Bem-vindo(a) ao perfil da FranAm2 🤗
 
  <div>
    <a href="https://github.com/FranAm2">

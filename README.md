@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </div>
   
-<!-- <br>
+<br>
  <div>
   ✨ Studying ✨ <br>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
- <div/> -->
+ <div/> 
   
    Pra ver mais novidades, siga meu perfil do GitHub 😊✨

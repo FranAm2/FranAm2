@@ -16,8 +16,8 @@
   
 <br>
  <div>
-  ✨ Studying ✨ <br>
+  ✨ Studying ✨ <br> <br>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
- <div/> 
+ <div/> <br>
   
    Pra ver mais novidades, siga meu perfil do GitHub 😊✨
